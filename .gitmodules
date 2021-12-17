@@ -1,0 +1,3 @@
+[submodule "lib/PCB_components_library"]
+	path = lib/PCB_components_library
+	url = git@github.com:twin3d/PCB_components_library.git
