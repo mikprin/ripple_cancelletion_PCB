@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name power)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/power.lib)(options "")(descr ""))
+  (lib (name Transistors)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/semi/Transistors.lib)(options "")(descr ""))
+  (lib (name TexasInstruments)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/semi/ICs/TexasInstruments.lib)(options "")(descr ""))
+  (lib (name Capacitors)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/passive/Capacitors.lib)(options "")(descr ""))
+  (lib (name Resistors)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/passive/Resistors.lib)(options "")(descr ""))
+  (lib (name Connectors)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/mechanical/Connectors.lib)(options "")(descr ""))
+  (lib (name ST)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/semi/ICs/ST.lib)(options "")(descr ""))
+  (lib (name Diodes)(type Legacy)(uri /home/miksolo/work/PCB/ripple_cancelletion_PCB/lib/PCB_components_library/symbols/semi/Diodes.lib)(options "")(descr ""))
+)
